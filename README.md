@@ -7,8 +7,9 @@ Integrantes: César Garnica - Jonathan Insuasti - Melany Villa
 
       Objetivo General
      
-    - Analizar y comprobar el comportamiento del capacitor y el inductor en coriente alterna y corriente directa mediante   la   resolución del ejercicio
-    propuesto en la guía de práctica para identificar el uso correcto con su respectiva simulación en un software de diseño electrónico.
+    - Analizar y comprobar el comportamiento del capacitor y el inductor en coriente alterna y corriente directa mediante
+    la   resolución del ejerciciopropuesto en la guía de práctica para identificar 
+    el uso correcto con su respectiva simulación en un software de diseño electrónico.
     
     Objetivos Específicos
      
