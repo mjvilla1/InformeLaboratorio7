@@ -30,9 +30,9 @@ Integrantes: Jonathan Insuasti - César Garnica - Melany Villa
 
 # 3. Explicación  del procedimiento
 
-En esta practica vamos a plasmar los diagramas en un simulador de circuitos electricos con el fin de poder realizar mediciones de Voltaje y corriente en distintos puntos del circutio.
+En esta práctica vamos a plasmar los diagramas en un simulador de circuitos eléctricos con el fin de poder realizar mediciones de Voltaje y corriente en distintos puntos del circutio.
 
-Por lo cual hacemos las representaciones del diagrama ubicando los valores correspondientes de los elementos que tenemos en el circuitp.
+Por lo cual hacemos las representaciones del diagrama ubicando los valores correspondientes de los elementos que tenemos en el circuito.
 
 ![](https://github.com/mjvilla1/ImagenesLab7/blob/main/Diagrama%20condensadores.jpeg)
 
@@ -42,12 +42,12 @@ Por lo cual hacemos las representaciones del diagrama ubicando los valores corre
 
 ![](https://github.com/mjvilla1/ImagenesLab7/blob/main/Conexion%20de%20nductor.jpeg)
 
-Con los circuitos ya hechos procedemos a dar inicio a la practica por lo cual variaremos el valor de la frecuencia en la fuente de voltaje y el resto se mantendra intacto, al variar la frecuencia debemos mover las perillas en el oscilloscopio hasta encontrar una curva idonea para analizar su movimiento ya que con el cambio de frecuencia el periodo sera distinto por lo que los dos terminos son inversamente proporcionales, moviendo el tiempo en el cual podemos encontrar la onda busaremos con cada cambio de frecuencia el valor de voltaje pico el cual sera el valor mas grande que se pueda observar en las ondas mostradas por el oscilloscopio, tambien mediremos el valor del voltaje con un multimetro convencional en el mimso punto  y el amperaje se lo medira en la resistencia propuesta por el ejercicio, anotamos los valores mostracos y proseguimos con su analizis
+Con los circuitos ya hechos procedemos a dar inicio a la práctica por lo cual variaremos el valor de la frecuencia en la fuente de voltaje y el resto se mantendra intacto, al variar la frecuencia debemos mover las perillas en el oscilloscopio hasta encontrar una curva idónea para analizar su movimiento ya que con el cambio de frecuencia el periodo sera distinto por lo que los dos terminos son inversamente proporcionales, moviendo el tiempo en el cual podemos encontrar la onda busaremos con cada cambio de frecuencia el valor de voltaje pico el cual sera el valor más grande que se pueda observar en las ondas mostradas por el oscilloscopio, también mediremos el valor del voltaje con un multímetro convencional en el mimso punto  y el amperaje se lo medira en la resistencia propuesta por el ejercicio, anotamos los valores mostracos y proseguimos con su análisis
 
 
 #  4. Respuestas 
 
-A continuacion se procede a poner en la tabla del resultado
+A continuación se procede a poner en la tabla los resultados obtenidos
 
 Tabla de circuito con condensadores.
 
