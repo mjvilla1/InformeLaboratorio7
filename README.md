@@ -69,7 +69,7 @@ Al colocar dos capacitores o dos bobinas de diferente valor en elcircuito, se fa
 
 ## ¿Qué son los valores eficaces de voltaje y corriente?
 
-Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar la sobre una misma resistencia.Es decir, el valor RMS es el valor del voltaje o corriente en CA que produce el mismo efecto de disipación de calor que su equivalente de voltaje o corriente directa.
+Se llama valor eficaz de una corriente alterna, al valor que tendría una corriente continua que produjera la misma potencia que dicha corriente alterna, al aplicar la sobre una misma resistencia.Es decir, el valor RMS es el valor del voltaje o corriente en CA que produce el mismo efecto de calentamiento de la onda seno que su equivalente de voltaje o corriente directa.
 
 # 5. Video
 
