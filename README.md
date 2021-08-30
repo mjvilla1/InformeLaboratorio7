@@ -23,6 +23,8 @@ Integrantes: Jonathan Insuasti - César Garnica - Melany Villa
     
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesLab7/blob/main/TablaLab7.PNG)
+![](https://github.com/mjvilla1/ImagenesLab7/blob/main/TablaLab7.1.PNG)
 
 # 3. Explicación  del procedimiento
 
