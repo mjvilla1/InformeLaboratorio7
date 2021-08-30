@@ -73,6 +73,7 @@ Se llama valor eficaz de una corriente alterna, al valor que tendría una corrie
 
 # 5. Video
 
+https://youtu.be/4WXK7w9LT3Y
 
 # 6. Conclusiones
 
