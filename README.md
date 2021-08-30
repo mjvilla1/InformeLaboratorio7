@@ -30,13 +30,34 @@ Integrantes: Jonathan Insuasti - César Garnica - Melany Villa
 
 # 3. Explicación  del procedimiento
 
+En esta practica vamos a plasmar los diagramas en un simulador de circuitos electricos con el fin de poder realizar mediciones de Voltaje y corriente en distintos puntos del circutio.
+
+Por lo cual hacemos las representaciones del diagrama ubicando los valores correspondientes de los elementos que tenemos en el circuitp.
+
+![](https://github.com/mjvilla1/ImagenesLab7/blob/main/Diagrama%20condensadores.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab7/blob/main/Capacitor.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab7/blob/main/Diagrama%20inductores.jpeg)
+
+![](https://github.com/mjvilla1/ImagenesLab7/blob/main/Conexion%20de%20nductor.jpeg)
+
+Con los circuitos ya hechos procedemos a dar inicio a la practica por lo cual variaremos el valor de la frecuencia en la fuente de voltaje y el resto se mantendra intacto, al variar la frecuencia debemos mover las perillas en el oscilloscopio hasta encontrar una curva idonea para analizar su movimiento ya que con el cambio de frecuencia el periodo sera distinto por lo que los dos terminos son inversamente proporcionales, moviendo el tiempo en el cual podemos encontrar la onda busaremos con cada cambio de frecuencia el valor de voltaje pico el cual sera el valor mas grande que se pueda observar en las ondas mostradas por el oscilloscopio, tambien mediremos el valor del voltaje con un multimetro convencional en el mimso punto  y el amperaje se lo medira en la resistencia propuesta por el ejercicio, anotamos los valores mostracos y proseguimos con su analizis
 
 
 #  4. Respuestas 
 
-
-
 A continuacion se procede a poner en la tabla del resultado
+
+Tabla de circuito con condensadores.
+
+![](https://github.com/mjvilla1/ImagenesLab7/blob/main/Tabla%20de%20datos%20circuito%20con%20con%20capacitores.jpeg)
+
+Tabla de circuito con inductores.
+
+![](https://github.com/mjvilla1/ImagenesLab7/blob/main/Tabla%20de%20datos%20de%20circuitos%20con%20inductores%20.jpeg)
+
+Analizando los valores de voltajes podemos decir  que el valor de voltaje con cada tipo de frecuencia siempre varia ya puede ser de menos a mas o de mas a menos dependiendo del componente que tengamos, la diferencia se encuentra que en el caso de tener inductancia presente en el circuito al tener el valor de 0H como frecuencia empieza n un valor mas alto el cual decae con la subida de la frecuencia y con capacitancia no tendremos el maximo valor con un valor de 0H de frecuencia.
 
 
 
@@ -73,7 +94,6 @@ Se llama valor eficaz de una corriente alterna, al valor que tendría una corrie
 
 # 5. Video
 
-https://youtu.be/4WXK7w9LT3Y
 
 # 6. Conclusiones
 
