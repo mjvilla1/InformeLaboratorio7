@@ -1,7 +1,7 @@
 # InformeLaboratorio7
 
 
-Integrantes: César Garnica - Jonathan Insuasti - Melany Villa
+Integrantes: Jonathan Insuasti - César Garnica - Melany Villa
 
 # 1. Objetivos 
 
